@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrewkmueller
 - 👀 I’m interested in ... Business, Crypto, Investing, Finance
 - 🌱 I’m currently learning ... Java, Solidity, Unity
-- 💞️ I’m looking to collaborate on ...A web applications, nft, web3
+- 💞️ I’m looking to collaborate on ...Web applications, nft, web3
 - 📫 How to reach me ... Email:andrewkmueller@gmail.com @andrewkmueller
 
 <!---
